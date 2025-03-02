@@ -1,4 +1,4 @@
-# This Week in Gra
+# This Week in *Gra*
 ## pl
 "Tygodnik" o postępie w pisaniu mojej gry.
 
