@@ -14,7 +14,7 @@ Póki co Gra nie ma tytułu, więc nazywa się "This Week in *Gra*".
 Language|files|blank|comment|code
 :-------|-------:|-------:|-------:|-------:
 Rust|15|98|40|1182
---------|--------|--------|--------|--------
+||||
 SUM:|15|98|40|1182
 
 _generated with cloc_
