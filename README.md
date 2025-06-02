@@ -9,3 +9,11 @@ Póki co Gra nie ma tytułu, więc nazywa się "This Week in *Gra*".
 
 ## en
 *I will start maintaining English version on the first request*
+
+## Code statistics
+Language|files|blank|comment|code
+:-------|-------:|-------:|-------:|-------:
+Rust|15|98|40|1182
+--------|--------|--------|--------|--------
+SUM:|15|98|40|1182
+_made with cloc_
