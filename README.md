@@ -16,4 +16,5 @@ Language|files|blank|comment|code
 Rust|15|98|40|1182
 --------|--------|--------|--------|--------
 SUM:|15|98|40|1182
-_made with cloc_
+
+_generated with cloc_
