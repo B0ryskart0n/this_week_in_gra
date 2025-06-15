@@ -13,8 +13,8 @@ Póki co Gra nie ma tytułu, więc nazywa się "This Week in *Gra*".
 ## Code statistics
 Language|files|blank|comment|code
 :-------|-------:|-------:|-------:|-------:
-Rust|15|99|40|1189
+Rust|15|99|40|1187
 ||||
-SUM:|15|99|40|1189
+SUM:|15|99|40|1187
 
 _generated with cloc_
